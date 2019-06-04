@@ -1,4 +1,8 @@
 // Google Fonts
-<style>
 @import url('https://fonts.googleapis.com/css?family=Raleway:200,400,700&display=swap');
-</style>
+
+// Vendor
+@import 'vendors/bootstrap/bootstrap.scss';
+
+// Base
+@import 'base/typography';
