@@ -1,22 +1,12 @@
+.header {
+  padding: 30px;
+}
+
+.logo_header {
+  padding: 10px;
+}
+
 .logo {
   padding-top: 2rem;
   padding-left: 2rem;
-}
-
-.title {
-  padding-top: 2rem;
-  padding-left: 2rem;
-  background-color: $jelly-bean;
-}
-
-.title__light {
-  color: $white;
-  font-size: $x-large;
-  font-weight: $extra-light;
-}
-
-.title__bold {
-  color: $white;
-  font-size: $x-large;
-  font-weight: $extra-light;
 }

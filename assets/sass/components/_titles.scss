@@ -1,0 +1,35 @@
+.cover__title-light {
+  font-weight: 200;
+  padding-bottom: 0px;
+}
+
+.cover__title-bold {
+  font-weight: bold;
+  padding-top: 0px;
+}
+
+.info__tomato-title {
+  color: #FFF;
+}
+
+h2 {
+  color: #FFF;
+  font-size: 50px;
+}
+
+h3 {
+  color: #91918D;
+  font-size: 50px;
+}
+
+.cover__title-light {
+  color: $white;
+  font-size: $x-large;
+  font-weight: $extra-light;
+}
+
+.cover__title-bold {
+  color: $white;
+  font-size: $x-large;
+  font-weight: $extra-light;
+}
